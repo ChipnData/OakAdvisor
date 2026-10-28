@@ -1,0 +1,18 @@
+{
+ "items": [
+  {
+   "name": "Divine Axe",
+   "packs": [
+    "Neutral"
+   ],
+   "rarity": "Common",
+   "type": "Axe",
+   "cooldown": "3.0s",
+   "damage": "10",
+   "effects": "Every 3 Triggers: Cleanse 5 of each debuff.",
+   "rating": "",
+   "notes": "",
+   "consumable": false
+  }
+ ]
+}
